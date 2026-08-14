@@ -2,7 +2,14 @@
 An interactive Formula 1 analytics dashboard built using OpenF1 API, Microsoft Excel and Power BI
 
 ### Screenshots
-![Home](assets/page_1.png)
-![World Map](assets/page_2.png)
-![Race Details](assets/page_3.png)
-![Constructor Details](assets/page_4.png)
+<img src="assets/page_1.png" width="800">
+Home
+
+<img src="assets/page_2.png" width="800">
+World Map
+
+<img src="assets/page_3.png" width="800">
+Race Details
+
+<img src="assets/page_4.png" width="800">
+Constructor Details
